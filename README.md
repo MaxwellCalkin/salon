@@ -1,6 +1,6 @@
-# Salon : <a target="_blank" href="https://www.salonbymaxwell.netlify.app">Visit Here</a>
+# Salon : <a target="_blank" href="https://salonbymaxwell.netlify.app/">Visit Here</a>
 
-<a target="_blank" href="https://www.salonbymaxwell.netlify.app">
+<a target="_blank" href="https://salonbymaxwell.netlify.app/">
 <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/salon.gif" width="100%" alt="salon website"/>
 </a>
 
